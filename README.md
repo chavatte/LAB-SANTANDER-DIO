@@ -22,3 +22,4 @@ Desenvolver as habilidades essenciais para construir aplicações back-end escal
 ## **Projetos**
 
 ### [LAB-01: Simulador de Conta Bancária em Java Através Do Terminal/Console](./projects/LAB-01/README.md)
+### [LAB-02: Controle de Fluxo](./projects/LAB-02/README.md)

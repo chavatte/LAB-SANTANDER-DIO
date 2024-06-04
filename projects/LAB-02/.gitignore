@@ -1,0 +1,32 @@
+# Arquivos específicos do VSCode
+.vscode/
+*.code-workspace
+
+# Arquivos de configuração do projeto
+.classpath
+.project
+.settings/
+
+# Arquivos compilados
+bin/
+out/
+target/
+
+# Arquivos de dependências
+.gradle/
+build/
+*.jar
+*.war
+*.ear
+
+# Arquivos temporários
+*.swp
+*~
+
+# Arquivos de log
+*.log
+hs_err_pid*
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
