@@ -25,4 +25,6 @@ Desenvolver as habilidades essenciais para construir aplicações back-end escal
 ### [LAB-02: Controle de Fluxo](./projects/LAB-02/README.md)
 ### [LAB-03: Modelando o iPhone com UML](./projects/LAB-03/README.md)
 ### [LAB-04: Criando um Banco Digital com Java e Orientação a Objetos](./projects/LAB-04/README.md)
+### [LAB-05: Abstraindo um Bootcamp Usando Orientação a Objetos em Java](./projects/LAB-05/README.md)
+
 
