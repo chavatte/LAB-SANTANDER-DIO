@@ -26,5 +26,6 @@ Desenvolver as habilidades essenciais para construir aplicações back-end escal
 ### [LAB-03: Modelando o iPhone com UML](./projects/LAB-03/README.md)
 ### [LAB-04: Criando um Banco Digital com Java e Orientação a Objetos](./projects/LAB-04/README.md)
 ### [LAB-05: Abstraindo um Bootcamp Usando Orientação a Objetos em Java](./projects/LAB-05/README.md)
+### [LAB-06: Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework](./projects/LAB-06/hotelReservation/README.md)
 
 
