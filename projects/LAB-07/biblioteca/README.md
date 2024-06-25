@@ -60,7 +60,7 @@ A imagem apresenta um modelo de banco de dados relacional para um sistema de ger
 
 **Diagrama Entidade-Relacionamento (DER):**
 
-<img align="center" src="./assets/Biblioteca_db.png" />
+<img align="center" src="./assets/biblioteca_db.png" />
 
 ## Funcionalidades Principais
 
