@@ -29,4 +29,7 @@ Desenvolver as habilidades essenciais para construir aplicações back-end escal
 ### [LAB-06: Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework](./projects/LAB-06/hotelReservation/README.md)
 ### [LAB-07: API REST na Nuvem Usando Spring Boot 3, Java 17 e Fly.io](./projects/LAB-07/biblioteca/README.md)
 
+## Certificado de conclusão
+
+ :mortar_board: [Back-end com Java](https://www.dio.me/certificate/A2EPH0V7) 
 
