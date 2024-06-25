@@ -27,5 +27,6 @@ Desenvolver as habilidades essenciais para construir aplicações back-end escal
 ### [LAB-04: Criando um Banco Digital com Java e Orientação a Objetos](./projects/LAB-04/README.md)
 ### [LAB-05: Abstraindo um Bootcamp Usando Orientação a Objetos em Java](./projects/LAB-05/README.md)
 ### [LAB-06: Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework](./projects/LAB-06/hotelReservation/README.md)
+### [LAB-07: API REST na Nuvem Usando Spring Boot 3, Java 17 e Fly.io](./projects/LAB-07/biblioteca/README.md)
 
 
